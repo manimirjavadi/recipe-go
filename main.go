@@ -1,3 +1,16 @@
+//		Host: localhost:8080
+//		BasePath: /
+//		Version: 1.0.0
+//		Contact: Mani Mirjavadi
+//	 <mani.mirjavadi@gmail.com> https://manimirjavadi.info
+//
+//		Consumes:
+//		- application/json
+//
+//		Produces:
+//		- application/json
+//
+// swagger:meta
 package main
 
 import (
